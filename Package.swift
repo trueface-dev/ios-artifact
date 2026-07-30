@@ -15,7 +15,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "TrueFaceLiveness",
-            url: "https://github.com/trueface-dev/ios-sdk/releases/download/1.0.0/TrueFaceLiveness.xcframework.zip",
+            url: "https://github.com/trueface-dev/ios-artifact/releases/download/v1.0.0/TrueFaceLiveness.xcframework.zip",
             checksum: "fc87590c23ecf74966bb6551d9876c694226828933fc06ad0749b2aa70ec3966"
         )
     ]

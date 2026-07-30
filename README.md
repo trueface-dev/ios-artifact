@@ -8,7 +8,7 @@ Add this package to your `Package.swift` dependencies:
 
 ```swift
 dependencies: [
-    .package(url: "https://github.com/trueface/trueface-ios-sdk.git", from: "1.0.0")
+    .package(url: "https://github.com/trueface-dev/ios-artifact.git", from: "1.0.0")
 ]
 ```
 
